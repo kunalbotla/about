@@ -26,7 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    # - repo-names
 
 social_media:
   # behance: your_username
@@ -82,4 +82,3 @@ topics:
   - name: Terminal
     web_url: https://github.com/topics/terminal
     image_url: https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png
-    
