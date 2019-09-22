@@ -1,1 +1,1 @@
-Original Info can be found at github.dev.
+Original information can be found at github.dev
