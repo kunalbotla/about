@@ -21,11 +21,11 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 15
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: RobotSecurity
     # - repo-names
 
 social_media:
